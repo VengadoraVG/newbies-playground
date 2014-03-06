@@ -1,0 +1,34 @@
+Te dan 'n' rastis del mismo tamaño, y quieres hacer un triángulo con ellos de la siguiente forma:
+
+1ro         [XX]
+2do       [XX][XX]
+3ro     [XX][XX][XX]
+4to   [XX][XX][XX][XX]
+5to [XX][XX][XX][XX][XX]
+
+Donde cada [XX] es un rasti de 2x1. En el ejemplo de arriba, el 1er nivel tiene 1 rasti, el 2do nivel tiene 2 rastis, y el 5to tiene 5 rastis. Por lo tanto, si te dieran 15 rastis, podrías armar el triángulo y te sobrarían 0 rastis.
+
+Si te dan 'n' rastis, y armas un triángulo (como el del ejemplo, arriba), 
+
+a) ¿cuántos rastis te sobrarían?
+b) ¿cuántos niveles tiene el triángulo? 
+
+EJEMPLO:
+
+1. Si te dan 5 rastis:
+     a) sobran 2 rastis.
+     b) el triángulo tiene 2 niveles.
+
+1ro   [XX]      SOBRAN
+2do [XX][XX]   [XX] [XX]
+
+2. Si te dan 10 rastis:
+     a) no sobran rastis.
+     b) el triángulo tien 4 niveles.
+
+1ro         [XX]
+2do       [XX][XX]
+3ro     [XX][XX][XX]
+4to   [XX][XX][XX][XX]     NO SOBRAN!
+
+

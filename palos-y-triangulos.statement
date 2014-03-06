@@ -1,0 +1,15 @@
+Un triángulo rectángulo es un triángulo en el que uno de sus ángulos es recto, es decir, uno de sus ángulos mide, exactamente, 90º. Como consecuencia, un triángulo rectángulo, siempre tendrá un lado que es más grande que los otros dos, a este lado, se le llama "HIPOTENUSA".
+
+Tito está aprendiendo a usar la regla, su maestra le ha dado varios triángulos rectángulos, y como tarea, él tiene que medir cada uno de sus lados con su regla, pero como Tito aún no sabe usar bien la regla, a veces mide mal.
+
+Dados tres números 'a', 'b' y 'c' (que representan los centímetros que Tito midió con su regla al medir cada uno de los lados del triángulo, siendo 'c' la hipotenusa, y 'a' y 'b' los otros dos lados), dile a Tito si midió bien o si midió mal!
+
+PISTA: Si puedes armar un triángulo rectángulo, cuyos lados midan 'a', 'b' y 'c', siendo 'c' la hipotenusa, significa que Tito midió bien; pero si Tito midió mal, no podría existir un triángulo rectángulo cuyos lados midan 'a', 'b' y cuya hipotenusa mida 'c'.
+
+EJEMPLO:
+
+dados:     a=1, b=2, c=3
+respuesta: ¡Mediste mal, Tito!
+
+dados:     a=3, b=4, c=5
+respuesta: ¡Buen trabajo!

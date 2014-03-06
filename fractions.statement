@@ -1,0 +1,22 @@
+Muchas calculadoras tienen la característica de simplificar fracciones.
+Por ejemplo, si le pides a una de estas calculadoras que divida 28 entre 6 la calculadora puede simplificarlo así:
+(28/6) = (2/2)*(14/3) = 14/3
+
+Haz un algoritmo que, dado un numerador 'n', y un denominador 'm', te diga un número 'p' y un número 'q' en el que p/q representa una fracción simplificada de n/m.
+
+EJEMPLO:
+dados:
+  n = 12
+  m = 9
+
+respuesta:
+  p = 4
+  q = 3
+-----------
+dados:
+  n = 10
+  m = 2
+
+respuesta:
+  p = 5
+  q = 1

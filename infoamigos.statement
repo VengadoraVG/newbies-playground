@@ -1,0 +1,13 @@
+''':) INFOAMIGOS :-)'''
+''(No es de un juez virtual)''
+
+INFOAMIGOS es un grupo de facebook en el que se reunen los informáticos a hablar de todo lo que pasa en la carrera! (y también de lo que no pasa en la carrera).
+
+Pneumonoultramicrosco, The Cat,  es uno de los administradores de este sitio, y está fascinado por la excesiva atención que reciben los memes y ciertas palabras claves en el grupo. Luego de varios años de estudio, ha creado un modelo matemático que mide los likes que recibe una publicación de acuerdo a las palabras que esta publicación contiene. Para mantener el modelo matemático funcionando, Pneumonoultramicrosco, The Cat,  necesita un programa que le diga cuántos likes debería tener una publicación de acuerdo al modelo matemático que Pneumonoultramicrosco, The Cat,  descubrió.
+
+Pneumonoultramicrosco, The Cat,  te dirá una palabra ''p'', y luego, te dirá un número ''l'' que indica el número de likes que recibe una publicación, por cada vez que aparece la palabra ''p'' en el comentario.
+
+Luego, Pneumonoultramicrosco, The Cat,  te dirá una cadena de texto ''cad'', que es el texto que la publicación tiene. Tu deber es indicar cuántos likes recibiría esa publicación
+
+EJEMPLO: p="hacker" l=53. cad="acs un programa q v si un numero s primo y ya t crs un hacker de anonymous", este comentario tendrá 53 likes.
+OTRO EJEMPLO: p="je" l=3. cad="solo xistn 10 tipos d personas n l mundo: los q sabn codigo binario y los q no je jejeje je". Este comentario tendrá 5*3=15 likes.

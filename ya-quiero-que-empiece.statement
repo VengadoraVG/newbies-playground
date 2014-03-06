@@ -1,0 +1,7 @@
+¡NAVIDAD! es la época preferida de muchas personas. Hay quienes, incluso, llevan una cuenta regresiva de los días que faltan para que sea navidad.
+
+Dados tres números: 'm' un mes, 'd' un día y 'h' una hora del día, haz un algoritmo que te indique cuántos días y cuántas horas faltan para navidad.
+
+EJEMPLO:
+dados:     m=8, d=27, h=16
+respuesta: faltan 124 días y 8 horas para navidad
